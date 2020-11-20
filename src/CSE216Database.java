@@ -1,6 +1,6 @@
 public class CSE216Database {
    public String getUsername() {
-       return Username;
+       return username;
    
    public void setUsername(String username) {
         this.username = username;
